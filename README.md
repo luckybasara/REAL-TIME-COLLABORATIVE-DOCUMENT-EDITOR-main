@@ -8,7 +8,7 @@ INTERN ID: CCT12STR
 
 DOMAIN: Full Stack Web Development
 
-DURATION: 4 WEEKS
+DURATION: February 10th, 2025 to April 10th, 2025.
 
 MENTOR: NEELA SANTHOSH KUMAR
 
